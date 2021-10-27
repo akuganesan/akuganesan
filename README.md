@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @akuganesan
+- 👀 I’m interested in debunking social biases in deep learning
+- 🌱 I’m currently learning about neural radiance fields (NeRF)
+- 💞️ I’m looking to collaborate on pedestrian intent estimation research
+- 📫 You can reach me at akuganes@cs.ubc.ca
